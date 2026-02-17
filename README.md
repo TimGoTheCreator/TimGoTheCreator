@@ -6,4 +6,4 @@
 
 ## Activity
 
-Actively building open-source work since November 2024.
+Actively building open-source work since November 2025.
