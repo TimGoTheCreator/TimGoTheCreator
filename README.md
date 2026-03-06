@@ -13,3 +13,9 @@ Im Currently working on NEXT.<br>A HPC Physics Engine with MPI to simulate<br>N-
 [![Assembly](https://img.shields.io/badge/Assembly-%23A8B9CC.svg?style=for-the-badge&logo=gnuassembly&logoColor=white)]()
 [![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TimGoTheCreator)
+
+### OS
+![GNU](https://img.shields.io/badge/GNU-A42E2B?style=plasticd&logo=gnu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plasticd&logo=linux&logoColor=black)
+![Windows NT](https://img.shields.io/badge/Windows%20NT-0078D6?style=plastic&logo=windows&logoColor=white)
+![BSD](https://img.shields.io/badge/BSD-AB2B28?style=plastic&logo=freebsd&logoColor=white)
